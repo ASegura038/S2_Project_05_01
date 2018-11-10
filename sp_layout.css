@@ -71,7 +71,7 @@ header>nav>ul>li>a {
 
 
 
-/* Added an id to the nav  with a ul that is the parent of the li. Included the display block with the width 12.0% for the prefered style for the nav. */
+/* Added a class to the nav  with a ul that is the parent of the li. Included the display block with the width 12.0% for the prefered style for the nav. */
 
 /* Horizontal Navigation List Styles */
 nav.horizontal ul>li {
@@ -81,6 +81,8 @@ nav.horizontal ul>li {
 }
 
 
+
+/* worked with id's that are a parents of the li. Various adjustements were implemented including the display block and set the width to 20% and had them float to the left as well as effected the image that was a child of li with similiar  displays.*/
 
 /* Topics Styles */
 ul#topics>li {
@@ -115,6 +117,8 @@ hr {
 }
 
 
+
+/* worked with an id of comments and added various adjustments using style rules such as margins, widths, and added a display block. */
 
 /* Customer Comment Styles */
 ul#comments {
