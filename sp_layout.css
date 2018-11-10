@@ -36,6 +36,8 @@ a {
 }
 
 
+/* did an id to have the display of the page kept together*/
+
 /* Row Styles */
 .row::after {
     clear: both;
@@ -44,6 +46,8 @@ a {
 }
 
 
+
+/*did a display block to the header with the width of 70% and float to the left so that the expanded image could be on the left. Added some padding and to have the nav adjusted to a prefered section of the page.  */
 
 /* Page Header Styles */
 body>header>img {
@@ -65,6 +69,9 @@ header>nav>ul>li>a {
 }
 
 
+
+
+/* Added an id to the nav  with a ul that is the parent of the li. Included the display block with the width 12.0% for the prefered style for the nav. */
 
 /* Horizontal Navigation List Styles */
 nav.horizontal ul>li {
